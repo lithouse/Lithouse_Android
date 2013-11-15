@@ -7,7 +7,7 @@ In order to use the library with [Eclipse ADT] (http://developer.android.com/sdk
 
 ###Setup
 
-*	Create an Android App (File > New > Android Application Project).
+* Create an Android App (File > New > Android Application Project).
 * Import the library `Lithouse` into your workspace (File > Import > Existing Project into Workspace).
 * Refer the library from you app by right clicking on the app inside the Project Explorer. In the resulting pop-up select (Properties > Android > Add).
 * Now, collect the following attributes from you developer account at http://lithouse.co.
